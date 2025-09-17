@@ -1,1 +1,1 @@
-# GIthub_Tutorial_Repoaitory
+# GIthub_Tutorial_Repository
